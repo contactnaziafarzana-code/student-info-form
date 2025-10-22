@@ -43,7 +43,5 @@ MIT License
 👩‍💻 Author
 
 Nazia Farzana
-📧 your.email@example.com
-
-🔗 LinkedIn
+📧 contactnaziafarzana@gmail.com
 
